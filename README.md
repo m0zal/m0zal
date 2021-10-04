@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0zal
 - 👀 I’m interested in all interesting
-- 🌱 I’m currently learning all taht possible
+- 🌱 I’m currently learning all that possible to learn
 - 💞️ I’m looking to collaborate on collaboratable
 - 📫 How to reach me if im unreachable?
 
