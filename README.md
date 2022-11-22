@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Google data scrapper<br>👯 I’m looking to collaborate on team project<br>🤝 I’m looking for help with finding a good teammates <br>🌱 I’m currently learning React, Angular, Vue<br>💬 You can ask me about me E=mcc<br>⚡ I like cheese with chocolate and pistachio is my favorite icecream
+🔭 I’m currently working on Google data scrapper<br>👯 I’m looking to collaborate on team project<br>🤝 I’m looking for help with finding a good teammates <br>🌱 I’m currently learning React, Angular, Vue<br>💬 Lets speak about E=mcc<br>⚡ I like cheese with chocolate and pistachio is my favorite icecream
 
 
 ## 🌐 Socials:
